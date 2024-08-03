@@ -14,6 +14,7 @@ import pageObjects.FitpeoPageObjects;
 import java.time.Duration;
 
 public class AssignmentScript {
+    //loom output video recording"https://www.loom.com/share/aa2a7c85ee24466499c927cfce1cfa10?sid=f00bb70f-d449-4991-b43b-35a7ac59b890"
     public WebDriver driver;
     public FitpeoPageObjects pageObjects;
     Actions actions;
